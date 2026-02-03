@@ -99,3 +99,22 @@ body {
   font-size: 14px;
   color: #555;
 }
+/* Quote Section */
+.quote {
+  background-color: #e5e7eb;
+  padding: 80px 200px;
+}
+
+.quote p {
+  font-size: 28px;
+  font-style: italic;
+  color: #1f2937;
+}
+
+.quote span {
+  display: block;
+  margin-top: 20px;
+  text-align: right;
+  font-weight: bold;
+  color: #111827;
+}
