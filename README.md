@@ -5,7 +5,7 @@ Designed to showcase the app, guide users, and provide quick access to recipes.
 
 Live Demo:-
 
-Check the live landing page [here] (https://shalinijadon462.github.io/odin-recipes/) 🚀
+Check the live landing page [here] (https://shalinijadon462.github.io/landing-page/) 🚀
 
 
 Features:-
@@ -32,7 +32,7 @@ Installation / Viewing Locally:-
 
 Clone the repository:
 
-git clone https://github.com/shalinijadon462/odin-recipes.git
+git clone https://github.com/shalinijadon462/landing-page.git
 
 Contribution:-
 
